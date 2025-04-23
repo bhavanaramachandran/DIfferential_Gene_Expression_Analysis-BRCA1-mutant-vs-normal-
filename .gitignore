@@ -16,3 +16,6 @@
 .Rhistory
 .Rproj.user/
 *.DS_Store
+*.sra
+*.1
+data/prefetch_samples
