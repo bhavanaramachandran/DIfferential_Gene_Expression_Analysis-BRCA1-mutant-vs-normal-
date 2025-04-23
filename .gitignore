@@ -1,0 +1,18 @@
+# Raw and processed data
+*.fastq*
+*.bam
+*.sam
+*.vcf
+*.sra
+*.gz
+
+# Results
+*.rds
+*.log
+*.out
+*.err
+
+# RStudio and system files
+.Rhistory
+.Rproj.user/
+*.DS_Store
