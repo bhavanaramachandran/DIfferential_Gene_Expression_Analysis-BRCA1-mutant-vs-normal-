@@ -2,7 +2,7 @@
 
 This repository contains an RNA-seq analysis pipeline to identify differentially expressed genes between BRCA1-mutant ER neagtive and normal samples using publicly available data.
 
-## 📂 Data Source
+## Data Source
 
 The RNA-seq data used in this analysis was obtained from the NCBI Sequence Read Archive (SRA) under BioProject accession: **[PRJNA751555](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA751555)**.
 
