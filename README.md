@@ -73,8 +73,6 @@ biological interpretation is available here:
 
 ##Acknowledgements:
 I would like to thank Rajiv Gandhi Centre for Biotechnology, Trivandrum for providing
-server access and computational support necessary for performing this analysis. I also
-acknowledge the use of OpenAI’s ChatGPT for assistance with code structuring and
-troubleshooting during the course of this project.
+server access and computational support necessary for performing this analysis. 
 
 
