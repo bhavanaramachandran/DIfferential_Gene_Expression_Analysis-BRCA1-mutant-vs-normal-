@@ -31,9 +31,9 @@ observed.
 - Main finding 3: Results broadly agree with known biological changes in BRCA1 ER negative tumors.
 
 Figures:
-- Volcano plot: `figures/volcano.png`
-- PCA plot: `figures/pca.png`
-- Enrichment: `figures/gsea_top.png`
+- Volcano plot: `results/volcano_plot.png`
+- Heatmap: `results/heatmap_top_100_DE_genes.png` and `results/heatmap_top_100_variable_genes.png`
+- Enrichment: `top_enriched_barplot.png`
 
 ## Reproducibility (minimal)
 Note: This workflow reflects the exact commands and scripts used in this analysis and is intended as a transparent, learning-focused pipeline rather than a full production workflow.
